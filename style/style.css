@@ -17,3 +17,15 @@ footer {
 .obj-fit-cover {
   object-fit: cover;
 }
+
+.testimonial-card-img {
+  height: 200px;
+}
+
+.bg-container-custom {
+  background-color: lightgray;
+}
+
+.bg-summer-custom {
+  background-color: lightgoldenrodyellow;
+}
